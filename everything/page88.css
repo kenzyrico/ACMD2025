@@ -1,0 +1,53 @@
+body{
+margin: 0;
+background-image: url(Gradient\ Serenity\ in\ Blue\ and\ Purple.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+height: 100vh;
+font-size: 6rem;
+color: white;
+}
+
+
+.website{
+margin: 250px 250px;
+
+
+}
+
+
+.Making{
+display: flex;
+flex: 1;
+justify-content: center;
+}
+
+.About{
+display: flex;
+flex: 1;
+justify-content: center;
+animation: smoothblink 1s infinite linear;
+}
+@keyframes smoothblink{
+0%{ color: red; }
+15%{ color:deeppink;}
+20%{ color: plum;}
+25%  { color: blue; }
+50%  { color: green; }
+75%  { color: orange; }
+100% { color: red; }
+
+}
+
+
+
+
+
+.web{
+display: flex;
+flex: 1;
+justify-content: center;
+
+}
