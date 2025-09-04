@@ -1,0 +1,16 @@
+body{
+height: 100vh;
+}
+
+.top-section{
+background-color: blue;
+display: flex;
+justify-content: center;
+
+}
+.middle-class{
+display: flex;
+justify-content: center;
+
+}
+

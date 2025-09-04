@@ -1,0 +1,24 @@
+body{
+background-color: burlywood;
+display: flex;
+justify-content: center;
+height: 100vh;
+align-items: center;
+}
+table {
+  border-collapse: collapse;
+  background-color: white;
+  width: 400px;
+
+
+}
+thead{
+  background-color: green;
+  color: white;
+}
+th,td{
+  border: 1px solid blue;
+}
+td{
+  text-align: center;
+}
